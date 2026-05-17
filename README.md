@@ -12,7 +12,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=36&duration=3000&pause=800&color=00BCD4&center=true&vCenter=true&width=600&lines=AlyaCore+API;Herramientas+para+Devs;Automatizacion+%26+IA;Procesamiento+de+Medios)](https://api.alyacore.xyz)
 
-✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦
+
 
 </div>
 
@@ -37,7 +37,7 @@
 <div align="center">
 
 ```
-  ⋆ ˚｡⋆୨୧˚  AlyaCore API  ˚୨୧⋆｡˚ ⋆
+------
 ```
 
 **Plataforma REST para desarrolladores que necesitan acceso rápido y confiable**
@@ -49,7 +49,7 @@
 
 <div align="center">
 
-✿ &nbsp; `+78 Endpoints` &nbsp; ✿ &nbsp; `JSON Universal` &nbsp; ✿ &nbsp; `Soporte 24/7` &nbsp; ✿ &nbsp; `Acceso a IA` &nbsp; ✿
+ &nbsp; `+78 Endpoints` &nbsp;  &nbsp; `JSON Universal` &nbsp;  &nbsp; `Soporte 24/7` &nbsp;  &nbsp; `Acceso a IA` &nbsp; 
 
 </div>
 
